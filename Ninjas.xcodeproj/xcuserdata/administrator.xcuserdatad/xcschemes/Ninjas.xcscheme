@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C3888BBB1833473F0061B6C0"
+               BlueprintIdentifier = "C3888C03183348C70061B6C0"
                BuildableName = "Ninjas.app"
                BlueprintName = "Ninjas"
                ReferencedContainer = "container:Ninjas.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C3888BE3183347400061B6C0"
+               BlueprintIdentifier = "C3888C2B183348E00061B6C0"
                BuildableName = "NinjasTests.xctest"
                BlueprintName = "NinjasTests"
                ReferencedContainer = "container:Ninjas.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3888BBB1833473F0061B6C0"
+            BlueprintIdentifier = "C3888C03183348C70061B6C0"
             BuildableName = "Ninjas.app"
             BlueprintName = "Ninjas"
             ReferencedContainer = "container:Ninjas.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3888BBB1833473F0061B6C0"
+            BlueprintIdentifier = "C3888C03183348C70061B6C0"
             BuildableName = "Ninjas.app"
             BlueprintName = "Ninjas"
             ReferencedContainer = "container:Ninjas.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3888BBB1833473F0061B6C0"
+            BlueprintIdentifier = "C3888C03183348C70061B6C0"
             BuildableName = "Ninjas.app"
             BlueprintName = "Ninjas"
             ReferencedContainer = "container:Ninjas.xcodeproj">
