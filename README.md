@@ -1,9 +1,8 @@
 ##ninjas
-======
 
 Game from article Sprite Kit Tutorial by Ray Wenderlich.
 
-Features:
+##Features:
 - Landscape orientation;
 - Moving Monsters;
 - Shooting Projectiles;
